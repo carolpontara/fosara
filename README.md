@@ -1,5 +1,4 @@
 
-````markdown
 # 🚀 Fosara – Soluções Digitais Personalizadas
 
 **Fosara** é uma aplicação desenvolvida com [Next.js](https://nextjs.org/) focada em oferecer soluções empresariais personalizadas com interfaces modernas, responsivas e funcionais. O projeto abrange desde catálogos de produtos e landing pages até e-commerces completos com integrações avançadas.
